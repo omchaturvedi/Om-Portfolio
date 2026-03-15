@@ -1,17 +1,15 @@
-import NPTEL from "../assets/NPTEL.jpg";
-import InfosysC1 from "../assets/Infosys-c1.jpg";
-import InfosysC2 from "../assets/Infosys-c2.jpg";
-import InfosysC3 from "../assets/Infosys-c3.jpg";
-import UdemyC1 from "../assets/udemy-c1.jpg";
-import UdemyC2 from "../assets/udemy-c2.jpg";
-import UdemyC3 from "../assets/udemy-c3.jpg";
-import UdemyC4 from "../assets/udemy-c4.jpg";
+import W3gards from "../assets/Summer-traning.jpeg";
+import InfosysC1 from "../assets/InfosysC1.jpg";
+import InfosysC2 from "../assets/InfosysC2.jpg";
+import InfosysC3 from "../assets/InfosysC3.jpg";
+
+import UdemyC4 from "../assets/udemyC4.jpg";
 
 const certifications = [
   {
-    title: "Introduction to IOT",
-    issuer: "NPTEL",
-    image: NPTEL,
+    title: "Summer Internship on Data Structures and Algorithms",
+    issuer: "W3gards",
+    image: W3gards,
   },
   {
     title: "ChatGPT-4 Prompt Engineering: ChatGPT, Generative AI & LLM",
@@ -28,21 +26,7 @@ const certifications = [
     issuer: "Infosys Springboard",
     image: InfosysC3,
   },
-  {
-    title: "PHP Laravel: Build Amazing Streaming Services",
-    issuer: "Udemy",
-    image: UdemyC1,
-  },
-  {
-    title: "Docker Deep Dive: Build, Ship, and Run Containers",
-    issuer: "Udemy",
-    image: UdemyC2,
-  },
-  {
-    title: "Figma: Web & Mobile Projects from Scratch",
-    issuer: "Udemy",
-    image: UdemyC3,
-  },
+  
   {
     title: "Master Generative AI & Generative AI Tools",
     issuer: "Udemy",

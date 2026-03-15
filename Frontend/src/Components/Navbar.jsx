@@ -85,7 +85,7 @@ export default function Navbar() {
           <button
             onClick={() =>
               window.open(
-                "https://drive.google.com/file/d/1xjsvdrlUl4BqXdmCnbR6qaHQwj-xMcFE/view?usp=sharing",
+                "https://drive.google.com/file/d/1fDEjYOZ2bTWLyt8YjxpbqewI5S0ZQ8xZ/view?usp=sharing",
                 "_blank"
               )
             }
