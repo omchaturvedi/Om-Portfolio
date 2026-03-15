@@ -3,7 +3,7 @@ import InfosysC1 from "../assets/InfosysC1.jpg";
 import InfosysC2 from "../assets/InfosysC2.jpg";
 import InfosysC3 from "../assets/InfosysC3.jpg";
 
-import UdemyC4 from "../assets/udemyC4.jpg";
+import UdemyC4 from "../assets/UdemyC4.jpg";
 
 const certifications = [
   {
