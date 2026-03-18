@@ -65,7 +65,7 @@ export default function Projects() {
             </p>
 
             <a
-              href="#"
+              href="https://github.com/omchaturvedi/Road-Accident-Analysis-PowerBI"
               target="_blank"
               rel="noopener noreferrer"
               className="
@@ -158,7 +158,7 @@ export default function Projects() {
             </p>
 
             <a
-              href="#"
+              href="https://github.com/omchaturvedi/Air-Quility"
               target="_blank"
               rel="noopener noreferrer"
               className="
