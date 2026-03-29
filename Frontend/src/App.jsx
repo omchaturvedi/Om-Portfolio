@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar";
 import HeroSection from "./Components/HeroSection";
 import About from "./Components/About";
 import Projects from "./Components/Projects";
+import Education from "./Components/Education";
 import Certifications from "./Components/Certifications";
 import CodingProfiles from "./Components/CodingProfiles";
 import Contact from "./Components/Contact";
@@ -147,6 +148,7 @@ function App() {
               <HeroSection />
               <WheelSection />
               <About />
+              <Education />
               <Projects />
               <CodingProfiles />
               <Contact />
@@ -172,7 +174,7 @@ function App() {
           }
         />
 
-         <Route path="*" element={<NotFound />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
 
       <Footer />

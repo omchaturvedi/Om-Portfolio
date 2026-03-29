@@ -59,6 +59,13 @@ export default function Navbar() {
           </button>
 
           <button
+            onClick={() => goToSection("education")}
+            className="hover:text-white transition"
+          >
+            Education
+          </button>
+
+          <button
             onClick={() => goToSection("projects")}
             className="hover:text-white transition"
           >
@@ -158,6 +165,13 @@ export default function Navbar() {
               className="px-4 py-3 hover:bg-neutral-800"
             >
               About
+            </button>
+
+            <button
+              onClick={() => goToSection("education")}
+              className="px-4 py-3 hover:bg-neutral-800"
+            >
+              Education
             </button>
 
             <button
